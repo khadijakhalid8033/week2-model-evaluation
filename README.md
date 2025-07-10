@@ -1,26 +1,24 @@
-Week 1 Projects: ML Refresh
+ 🤖 AI & ML Portfolio – Weeks 1 & 2 Projects
 
-🧠 Projects
-This repo contains two beginner ML projects focused on refreshing core machine learning concepts:
+This repository showcases foundational Machine Learning projects completed during Weeks 1 and 2 of a 4-month AI/ML portfolio journey.
 
-1. 🛳 Titanic Classification
-- Dataset: [Kaggle Titanic](https://www.kaggle.com/c/titanic/data)
-- Goal: Predict survival using features like age, sex, fare.
+✅ Week 1: ML Refresh – Titanic & Boston Housing
+
+🚢 Titanic Survival Classifier
+- Dataset: Kaggle Titanic
 - Models: Logistic Regression, Random Forest
-- Metrics: Accuracy, Confusion Matrix
+- Metrics: Accuracy, Confusion Matrix, ROC Curve
 
-2. 🏘 Boston Housing Price Prediction
-- Dataset: (https://www.kaggle.com/datasets/altavish/boston-housing-dataset)
-- Goal: Predict median house value from 8 features
-- Models: Linear Regression
-- Metrics: MSE, RMSE, R² Score
+🏘 Boston Housing Price Prediction
+- Dataset: Kaggle Boston Housing
+- Model: Linear Regression
+- Metrics: MSE, RMSE, R²
 
-📚 Tools
-- Python
-- scikit-learn
-- Pandas, NumPy, Matplotlib, Seaborn
+🧪 Week 2: Model Evaluation + Pipelines
+- Pipelines using ColumnTransformer
+- Cross-validation with StratifiedKFold
+- ROC/AUC, precision, recall, F1-score
 
-✨ Skills Demonstrated
-- Data cleaning & exploration
-- Feature encoding and scaling
-- Model training & evaluation
+👩‍💻 Author
+- GitHub: @khadijakhalid8033
+- LinkedIn: khadija-khalid-2645a627b
